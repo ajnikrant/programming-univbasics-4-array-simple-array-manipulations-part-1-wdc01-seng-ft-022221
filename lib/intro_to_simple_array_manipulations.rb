@@ -10,6 +10,5 @@ end
 
 def using_pop(array)
   new_array = ["strings", "in", "this", "Antarctica"]
-  new_array.pop
-  new_array
+  new_array.pop "Antarctica"
 end
