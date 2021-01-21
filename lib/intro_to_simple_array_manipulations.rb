@@ -1,4 +1,4 @@
-requires 'pry'
+require 'pry'
 
 def using_push (array, string)
   new_array = ["strings", "in", "this", "array"]
