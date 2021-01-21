@@ -1,8 +1,9 @@
 require 'pry'
 
 def using_push (array, string)
-  new_array = ["apples", "in", "this", "array"]
-  new_array.push "violet"
+#  new_array = ["apples", "in", "this", "array"]
+#  new_array.push "violet"
+array.push(string)
 end
 
 def using_unshift(array, string)
