@@ -13,5 +13,5 @@ end
 def using_pop (array)
 #  new_array = ["strings", "in", "this", "array", "make", "more", "Antarctica"]
 #  new_array.pop
-array.pop("Antarctica")
+array.pop
 end
