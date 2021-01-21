@@ -17,3 +17,7 @@ def using_pop (array)
 #  new_array.pop
 array.pop
 end
+
+def pop_with_args (array)
+  array.pop
+end
