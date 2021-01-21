@@ -9,6 +9,6 @@ def using_unshift(array, string)
 end
 
 def using_pop (array)
-  new_array = ["strings", "in","this", "array", "make", "Antarctica"]
-  new_array.pop
+  array = ["strings", "in","this", "array", "make", "Antarctica"]
+  array.pop
 end
