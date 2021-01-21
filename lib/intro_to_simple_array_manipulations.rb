@@ -7,8 +7,9 @@ array.push(string)
 end
 
 def using_unshift(array, string)
-  new_array = ["strings", "in", "this", "array"]
-  new_array.unshift "Staten Island"
+#  new_array = ["strings", "in", "this", "array"]
+#  new_array.unshift "Staten Island"
+array.unshift(string)
 end
 
 def using_pop (array)
